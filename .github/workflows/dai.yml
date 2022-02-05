@@ -1,12 +1,12 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Deploy nam subdomain
+name: Deploy dai subdomain
 
 # Controls when the workflow will run
 on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
-    branches: [namSubdomain]
+    branches: [daiSubdomain]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -14,7 +14,7 @@ on:
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   web-deploy:
-    name: 🎉 Deploy nam.luckycharm.store
+    name: 🎉 Deploy dai.luckycharm.store
     runs-on: ubuntu-latest
     steps:
       - name: 🚚 Get latest code
@@ -30,5 +30,5 @@ jobs:
           server: 112.213.89.115
           username: ${{ secrets.ftp_username }}
           password: ${{ secrets.ftp_password }}
-          server-dir: /public_html/nam/
-          state-name: .ftp-deploy-sync-state-nam.json
+          server-dir: /public_html/dai/
+          state-name: .ftp-deploy-sync-state-dai.json
