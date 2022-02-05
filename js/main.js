@@ -200,7 +200,7 @@ $(document).ready(function (e) {
             },
             {
               text:
-                "Ang pampa swerte mong numero ay uno (1). Nangangahulugan ito na sa Enero 31, 2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
+                "Ang pampa swerte mong numero ay uno (2). Nangangahulugan ito na sa Pebrero 28,2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
                 "Pero kong ito ay makaligtaan mo, maaaring manatili ka parin sakong anong buhay meron ka ngayon. Kaya pagkakatoon muna!",
             },
             {
