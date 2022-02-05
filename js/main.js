@@ -152,7 +152,7 @@ $(document).ready(function (e) {
     }),
     (e.managerDialog = [
       {
-        text: "Hi!<br>Ako si Hanz Cua. Isang sikat na tarot reader at astrologo sa Pilipinas.<br>Sagutin ang 2 tanong para makakuha ng libreng horoscope",
+        text: "Hi!<br>Ako si Hanz Cua. Isang Physic reader at Astrologo.<br>Anong pangalan mo?",
       },
       {
         text: "Ikaw ba ay Lalaki o Babae?",
@@ -177,15 +177,15 @@ $(document).ready(function (e) {
               text: '<br><img width="200px" src="img/9-of-pentacles.jpg"></br>',
             },
             {
-              text: "Sampung ng Pentacles ay isang kahanga-hangang card na nagpapakita ng kayamanan at kayamanan, swerte at materyal na kasaganaan naghihintay para sa iyo. Ang iyong paglalakbay sa buhay ay may maraming positibong enerhiya para sa iyo. Ipinapakita ng iyong aura na mayroon kang maraming potensyal ngunit may pumipigil sa iyo na bumuo ng isang matatag, mapayapang buhay, hinahadlangan ka sa mga masasamang tao na ginugugol mo ng maraming oras at pagsisikap Ngunit mayroon ka pa ring maraming mga problema",
+              text: "9 of Pentacles ay isang kahanga-hangang card na nagpapakita ng kayamanan at kayamanan, swerte at materyal na kasaganaan naghihintay para sa iyo. Ang iyong paglalakbay sa buhay ay may maraming positibong enerhiya para sa iyo. Ipinapakita ng iyong aura na mayroon kang maraming potensyal ngunit may pumipigil sa iyo na bumuo ng isang matatag, mapayapang buhay, hinahadlangan ka sa mga masasamang tao na ginugugol mo ng maraming oras at pagsisikap Ngunit mayroon ka pa ring maraming mga problema",
             },
             { text: '<br><img width="200px" src="img/the-tower.jpg"></br>' },
             {
-              text: 'Ang kard na "Sampung mga espada"  ay kumakatawan sa isang biglaang pagkatalo o sakuna, at ang mapagkukunan ng kapangyarihang ito ay wala sa iyong kontrol. Dudurugin ka nito nang walang babala o anumang awa. Minsan nais mong baguhin ang kurso ng isang napipintong sakuna, ngunit halos hindi mo ito matiis, sa oras na maaari kang masaksak sa likuran o ipagkanulo ng isang taong pinagkakatiwalaan mo. Pinakamalala sa lahat, ang ilan sa mga taong ito ay napakalapit at hindi mo namamalayan na sinasaktan ka nila.',
+              text: 'Ang kard na "The Tower" ay kumakatawan sa isang biglaang pagkatalo o sakuna, at ang mapagkukunan ng kapangyarihang ito ay wala sa iyong kontrol. Dudurugin ka nito nang walang babala o anumang awa. Minsan nais mong baguhin ang kurso ng isang napipintong sakuna, ngunit halos hindi mo ito matiis, sa oras na maaari kang masaksak sa likuran o ipagkanulo ng isang taong pinagkakatiwalaan mo. Pinakamalala sa lahat, ang ilan sa mga taong ito ay napakalapit at hindi mo namamalayan na sinasaktan ka nila.',
             },
             { text: '<br><img width="200px" src="img/ace-of-wands.jpg"></br>' },
             {
-              text: 'Ipinapahiwatig ng kard na "Wheel of Fortune" na hindi ka dapat tumahimik lamang at tanggapin. Maaari mong aktibong mapanatili ang positibong bahagi ng pag-ikot na ito. Kapag naging negatibo ang mga bagay, sa halip na maghintay at umasa na magiging maayos ang mga bagay, dapat mong aktibong gumana sa sitwasyon. Mayroong mga naninibugho at nakakahamak na tao sa mga nakakaalam na wala ka sa iyong kontrol, ang mga masasamang oras na pinagdadaanan mo ay maaari ding makita bilang pagtatapos ng mga maling desisyon na iyong nagawa. kasalukuyan, Kailangan mong pagbutihin ang iyong kapalaran at makuha muli ang kontrol sa iyong kapalaran',
+              text: 'Ipinapahiwatig ng kard na "Ace of Wands" na hindi ka dapat tumahimik lamang at tanggapin. Maaari mong aktibong mapanatili ang positibong bahagi ng pag-ikot na ito. Kapag naging negatibo ang mga bagay, sa halip na maghintay at umasa na magiging maayos ang mga bagay, dapat mong aktibong gumana sa sitwasyon. Mayroong mga naninibugho at nakakahamak na tao sa mga nakakaalam na wala ka sa iyong kontrol, ang mga masasamang oras na pinagdadaanan mo ay maaari ding makita bilang pagtatapos ng mga maling desisyon na iyong nagawa. kasalukuyan, Kailangan mong pagbutihin ang iyong kapalaran at makuha muli ang kontrol sa iyong kapalaran',
             },
             {
               text: "Hindi ka makakalabas sa butas na ito, sa mga darating na taon kung hindi ka pumili ng tamang pagpipilian, na nangangahulugan sa isang rebolusyon sa pananalapi.",
@@ -200,7 +200,7 @@ $(document).ready(function (e) {
             },
             {
               text:
-                "Ang pampa swerte mong numero ay uno (2). Nangangahulugan ito na sa Pebrero 28,2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
+                "Ang pampa swerte mong numero ay uno (1). Nangangahulugan ito na sa Enero 31, 2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
                 "Pero kong ito ay makaligtaan mo, maaaring manatili ka parin sakong anong buhay meron ka ngayon. Kaya pagkakatoon muna!",
             },
             {
@@ -234,15 +234,15 @@ $(document).ready(function (e) {
               text: '<br><img width="200px" src="img/9-of-pentacles.jpg"></br>',
             },
             {
-              text: "Sampung ng Pentacles ay isang kahanga-hangang card na nagpapakita ng kayamanan at kayamanan, swerte at materyal na kasaganaan naghihintay para sa iyo. Ang iyong paglalakbay sa buhay ay may maraming positibong enerhiya para sa iyo. Ipinapakita ng iyong aura na mayroon kang maraming potensyal ngunit may pumipigil sa iyo na bumuo ng isang matatag, mapayapang buhay, hinahadlangan ka sa mga masasamang tao na ginugugol mo ng maraming oras at pagsisikap Ngunit mayroon ka pa ring maraming mga problema",
+              text: "9 of Pentacles ay isang kahanga-hangang card na nagpapakita ng kayamanan at kayamanan, swerte at materyal na kasaganaan naghihintay para sa iyo. Ang iyong paglalakbay sa buhay ay may maraming positibong enerhiya para sa iyo. Ipinapakita ng iyong aura na mayroon kang maraming potensyal ngunit may pumipigil sa iyo na bumuo ng isang matatag, mapayapang buhay, hinahadlangan ka sa mga masasamang tao na ginugugol mo ng maraming oras at pagsisikap Ngunit mayroon ka pa ring maraming mga problema",
             },
             { text: '<br><img width="200px" src="img/the-tower.jpg"></br>' },
             {
-              text: 'Ang kard na "Sampung mga espada" ay kumakatawan sa isang biglaang pagkatalo o sakuna, at ang mapagkukunan ng kapangyarihang ito ay wala sa iyong kontrol. Dudurugin ka nito nang walang babala o anumang awa. Minsan nais mong baguhin ang kurso ng isang napipintong sakuna, ngunit halos hindi mo ito matiis, sa oras na maaari kang masaksak sa likuran o ipagkanulo ng isang taong pinagkakatiwalaan mo. Pinakamalala sa lahat, ang ilan sa mga taong ito ay napakalapit at hindi mo namamalayan na sinasaktan ka nila.',
+              text: 'Ang kard na "The Tower" ay kumakatawan sa isang biglaang pagkatalo o sakuna, at ang mapagkukunan ng kapangyarihang ito ay wala sa iyong kontrol. Dudurugin ka nito nang walang babala o anumang awa. Minsan nais mong baguhin ang kurso ng isang napipintong sakuna, ngunit halos hindi mo ito matiis, sa oras na maaari kang masaksak sa likuran o ipagkanulo ng isang taong pinagkakatiwalaan mo. Pinakamalala sa lahat, ang ilan sa mga taong ito ay napakalapit at hindi mo namamalayan na sinasaktan ka nila.',
             },
             { text: '<br><img width="200px" src="img/ace-of-wands.jpg"></br>' },
             {
-              text: 'Ipinapahiwatig ng kard na "Wheel of Fortune" na hindi ka dapat tumahimik lamang at tanggapin. Maaari mong aktibong mapanatili ang positibong bahagi ng pag-ikot na ito. Kapag naging negatibo ang mga bagay, sa halip na maghintay at umasa na magiging maayos ang mga bagay, dapat mong aktibong gumana sa sitwasyon. Mayroong mga naninibugho at nakakahamak na tao sa mga nakakaalam na wala ka sa iyong kontrol, ang mga masasamang oras na pinagdadaanan mo ay maaari ding makita bilang pagtatapos ng mga maling desisyon na iyong nagawa. kasalukuyan, Kailangan mong pagbutihin ang iyong kapalaran at makuha muli ang kontrol sa iyong kapalaran',
+              text: 'Ipinapahiwatig ng kard na "Ace of Wands" na hindi ka dapat tumahimik lamang at tanggapin. Maaari mong aktibong mapanatili ang positibong bahagi ng pag-ikot na ito. Kapag naging negatibo ang mga bagay, sa halip na maghintay at umasa na magiging maayos ang mga bagay, dapat mong aktibong gumana sa sitwasyon. Mayroong mga naninibugho at nakakahamak na tao sa mga nakakaalam na wala ka sa iyong kontrol, ang mga masasamang oras na pinagdadaanan mo ay maaari ding makita bilang pagtatapos ng mga maling desisyon na iyong nagawa. kasalukuyan, Kailangan mong pagbutihin ang iyong kapalaran at makuha muli ang kontrol sa iyong kapalaran',
             },
             {
               text: "Hindi ka makakalabas sa butas na ito, sa mga darating na taon kung hindi ka pumili ng tamang pagpipilian, na nangangahulugan sa isang rebolusyon sa pananalapi.",
@@ -257,7 +257,7 @@ $(document).ready(function (e) {
             },
             {
               text:
-                "Ang pampa swerte mong numero ay uno (2). Nangangahulugan ito na sa Pebrero 28,2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
+                "Ang pampa swerte mong numero ay uno (1). Nangangahulugan ito na sa Enero 31, 2022, ang iyong buhay ay maaaring magbago nang malaki para sa mas magandang pamumuhay.\n" +
                 "Pero kong ito ay makaligtaan mo, maaaring manatili ka parin sakong anong buhay meron ka ngayon. Kaya pagkakatoon muna!",
             },
             {
